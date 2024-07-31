@@ -1,0 +1,9 @@
+{
+    "API": {
+      "api_key": "646b0393ded79e0cd0c697223dc626d2",
+      "nfl_team_odds_url": "https://api.the-odds-api.com/v4/sports/americanfootball_nfl/odds",
+      "nfl_player_odds_prefix": "https://api.the-odds-api.com/v4/sports/americanfootball_nfl/events/",
+      "nfl_player_odds_suffix": "/odds?apiKey=646b0393ded79e0cd0c697223dc626d2&regions=us&markets=player_pass_tds&oddsFormat=american",
+      "region": "us"
+    }
+}
