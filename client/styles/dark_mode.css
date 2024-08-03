@@ -1,0 +1,18 @@
+/* styles.qss */
+QMainWindow {
+    background-color: #2e2e2e;
+    color: #e0e0e0;
+}
+QPushButton {
+    background-color: #3a3a3a;
+    color: #e0e0e0;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+QPushButton:hover {
+    background-color: #454545;
+}
+QVBoxLayout {
+    margin: 10px;
+}
